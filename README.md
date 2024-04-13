@@ -1,3 +1,5 @@
+![Robot Serving](images/root-serving.webp)
+
 # PoC: AI generated Terraform Planning and Validation
 
 This is a quick PoC made to test the idea of "Can AI generate Terraform templates?"
