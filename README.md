@@ -1,4 +1,4 @@
-![Robot Serving](images/root-serving.webp)
+![Robot Serving](images/root-serving.jpg)
 
 # PoC: AI generated Terraform Planning and Validation
 
